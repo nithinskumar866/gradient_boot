@@ -1,8 +1,8 @@
-# 🎬 Movie Genre Predictor
+#  Movie Genre Predictor
 
 This project uses **Gradient Boosting** to predict the **genre of a movie** based on input features like budget, runtime, popularity score, vote average, and number of votes.
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - Python
 - Flask
@@ -10,7 +10,7 @@ This project uses **Gradient Boosting** to predict the **genre of a movie** base
 - Gradient Boosting Classifier
 - HTML + CSS (Frontend)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 gradient_boosting_movie_predictor/
@@ -27,7 +27,7 @@ gradient_boosting_movie_predictor/
 ├── requirements.txt
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository.
 2. Install dependencies:
@@ -44,7 +44,7 @@ gradient_boosting_movie_predictor/
    ```
 5. Visit `http://localhost:5000` to test the app.
 
-## 📌 Dataset Features
+##  Dataset Features
 
 Make sure your `movie_dataset.csv` has the following columns:
 
@@ -55,10 +55,13 @@ Make sure your `movie_dataset.csv` has the following columns:
 - `vote_count`
 - `Genre` (target)
 
-## 🎨 Frontend Preview
+##  Frontend Preview
 
-<!-- Place frontend screenshot here -->
-
+Step1:
+![alt text](image.png)
 ---
+Result page:
 
-Made with ❤️ using Flask and ML!
+
+
+
