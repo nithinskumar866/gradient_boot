@@ -60,7 +60,7 @@ Make sure your `movie_dataset.csv` has the following columns:
 Step1:
 ![alt text](image.png)
 ---
-Result page:
+
 
 
 
